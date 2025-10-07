@@ -25,6 +25,11 @@ Economist and aspiring Data Analyst with skills in **Python, SQL, Excel, and Pow
 - **Preview:**  
 ![Retail Financial Dashboard](images/retail.png)
 
+### 4. SQL Data Cleaning Project – Layoffs Dataset
+- **GitHub Repo:** [SQL_Layoffs_Data_Cleaning](https://github.com/lexaperez/SQL_Layoffs_Data_Cleaning)
+- **Description:** SQL project focused on cleaning and standardizing a layoffs dataset. Includes duplicate removal, data standardization, handling of missing values, and correction of date formats.
+- **Key Tools:** MySQL, CTEs, window functions, data cleaning techniques.
+
 ---
 
 ## 📌 Skills
@@ -68,6 +73,11 @@ Economista y aspirante a Analista de Datos con habilidades en **Python, SQL, Exc
 - **Descripción:** Monitorea ventas, ingresos, comisiones y pedidos en varias tiendas y ubicaciones.  
 - **Vista Previa:**  
 ![Retail Dashboard](images/retail.png)
+
+### 4. Proyecto de Limpieza de Datos en SQL – Base de Despidos
+- **Repositorio:** [SQL_Layoffs_Data_Cleaning](https://github.com/lexaperez/SQL_Layoffs_Data_Cleaning)
+- **Descripción:** Proyecto en SQL enfocado en la limpieza y estandarización de una base de datos de despidos. Incluye eliminación de duplicados, estandarización de datos, manejo de valores nulos y corrección de formatos de fecha.
+- **Herramientas:** MySQL, CTEs, funciones de ventana y técnicas de limpieza de datos.
 
 ---
 
