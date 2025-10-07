@@ -1,5 +1,3 @@
-# ENGLISH
-
 # Portfolio - Lexa Pérez
 
 ## 👩‍💻 About Me
