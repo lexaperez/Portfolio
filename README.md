@@ -13,19 +13,19 @@ Economist and aspiring Data Analyst with skills in **Python, SQL, Excel, and Pow
 - **GitHub Repo:** [Call Center Efficiency Dashboard](https://github.com/lexaperez24/CallCenter_Efficiency_Dashboard)  
 - **Description:** Tracks key call center KPIs such as calls answered, handling time, waiting time, and efficiency by area.  
 - **Preview:**  
-![Call Center Dashboard](images/dashboard_screenshot.png)
+![Call Center Efficiency Dashboard](images/dashboard_screenshot.png)
 
 ### 2. HR Analytics Dashboard
 - **GitHub Repo:** [HR Analytics Dashboard](https://github.com/lexaperez24/HR_Analytics_Dashboard)  
 - **Description:** Analyzes employee distribution, performance, salaries, age, and tenure.  
 - **Preview:**  
-![HR Dashboard](images/dashboard_screenshot.png)
+![HR Analytics Dashboard](images/dashboard_screenshot.png)
 
 ### 3. Retail Financial Dashboard
 - **GitHub Repo:** [Retail Financial Dashboard](https://github.com/lexaperez24/Retail_Financial_Dashboard)  
 - **Description:** Monitors sales, revenue, commissions, and orders across multiple stores and locations.  
 - **Preview:**  
-![Retail Dashboard](images/dashboard_screenshot.png)
+![Retail Financial Dashboard](images/dashboard_screenshot.png)
 
 ---
 
