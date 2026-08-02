@@ -30,6 +30,11 @@ Economist and aspiring Data Analyst with skills in **Python, SQL, Excel, and Pow
 - **Description:** SQL project focused on cleaning and standardizing a layoffs dataset. Includes duplicate removal, data standardization, handling of missing values, and correction of date formats.
 - **Key Tools:** MySQL, CTEs, window functions, data cleaning techniques.
 
+### 5. Exploratory Data Analysis & ML Pipeline for Diabetes Progression
+- **GitHub Repo:** [EDA & ML Pipeline for Diabetes Progression](https://github.com/lexaperez/EDA-Diabetes)
+- **Description:** Exploratory Data Analysis (EDA) and end-to-end machine learning pipeline built to predict diabetes progression, measuring performance gains via RMSE after targeted data cleaning, missing value imputation, and categorical encoding.
+- **Key Tools:** Python, Pandas, Scikit-learn, Seaborn, Jupyter Notebook.
+
 ---
 
 ## 📌 Skills
@@ -42,6 +47,7 @@ Economist and aspiring Data Analyst with skills in **Python, SQL, Excel, and Pow
 ## 📧 Contact
 - Email: lexaperez24@gmail.com  
 - GitHub: [https://github.com/lexaperez](https://github.com/lexaperez)
+- LinkedIn: [www.linkedin.com/in/lexaperez](www.linkedin.com/in/lexaperez)
 
 ---
 
@@ -79,6 +85,11 @@ Economista y aspirante a Analista de Datos con habilidades en **Python, SQL, Exc
 - **Descripción:** Proyecto en SQL enfocado en la limpieza y estandarización de una base de datos de despidos. Incluye eliminación de duplicados, estandarización de datos, manejo de valores nulos y corrección de formatos de fecha.
 - **Herramientas:** MySQL, CTEs, funciones de ventana y técnicas de limpieza de datos.
 
+### 5. Análisis Exploratorio de Datos y Pipeline de Machine Learning para la Progresión de la Diabetes
+- **Repositorio:** [EDA & ML Pipeline for Diabetes Progression](https://github.com/lexaperez/EDA-Diabetes)
+- **Descripción:** Análisis exploratorio de datos (EDA) y pipeline de machine learning enfocado en predecir la progresión de la diabetes, evaluando la optimización del modelo mediante la métrica RMSE tras la limpieza de datos, imputación de valores faltantes y codificación categórica.
+- **Herramientas:** Python, Pandas, Scikit-learn, Seaborn, Jupyter Notebook.
+
 ---
 
 ## 📌 Habilidades
@@ -91,3 +102,4 @@ Economista y aspirante a Analista de Datos con habilidades en **Python, SQL, Exc
 ## 📧 Contacto
 - Email: lexaperez24@gmail.com   
 - GitHub: [https://github.com/lexaperez](https://github.com/lexaperez)
+- LinkedIn: [www.linkedin.com/in/lexaperez](www.linkedin.com/in/lexaperez)
