@@ -107,7 +107,7 @@ Economista y aspirante a Analista de Datos con habilidades en **Python, SQL, Exc
 ---
 
 ## 📌 Habilidades
-- **Análisis de Datos:** Python, Pandas, NumPy, SQL, Excel, Power BI, AWSS
+- **Análisis de Datos:** Python, Pandas, NumPy, SQL, Excel, Power BI, AWS
 - **Inteligencia de Negocios:** Dashboards interactivos, KPIs, reportes ejecutivos  
 - **Habilidades Blandas:** Proactiva, adaptable, resolución de problemas, aprendizaje rápido  
 
