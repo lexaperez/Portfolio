@@ -35,10 +35,15 @@ Economist and aspiring Data Analyst with skills in **Python, SQL, Excel, and Pow
 - **Description:** Exploratory Data Analysis (EDA) and end-to-end machine learning pipeline built to predict diabetes progression, measuring performance gains via RMSE after targeted data cleaning, missing value imputation, and categorical encoding.
 - **Key Tools:** Python, Pandas, Scikit-learn, Seaborn, Jupyter Notebook.
 
+### 6. YouTube Sentiment Analysis: Jake Paul vs. Mike Tyson (trailer)
+- **GitHub Repo:** [YouTube Sentiment Analysis: Jake Paul vs. Mike Tyson (trailer)](https://github.com/lexaperez/youtube_sentiment_analysis_jakepaulvsmiketyson)
+- **Description:** Analysis of public perception and YouTube community reactions to one of the most publicized boxing events in recent history. Using NLP techniques, comments from the official trailer were extracted and processed to classify sentiment polarity (positive, neutral, or negative) and uncover the most recurring terms.
+- **Key Tools:** Python, NLTK, Seaborn & WordCloud.
+
 ---
 
 ## 📌 Skills
-- **Data Analysis:** Python, Pandas, NumPy, SQL, Excel, Power BI  
+- **Data Analysis:** Python, Pandas, NumPy, SQL, Excel, Power BI, AWS
 - **Business Intelligence:** Interactive dashboards, KPIs, executive reports  
 - **Soft Skills:** Proactive, adaptable, problem-solving, fast learner  
 
@@ -90,10 +95,15 @@ Economista y aspirante a Analista de Datos con habilidades en **Python, SQL, Exc
 - **Descripción:** Análisis exploratorio de datos (EDA) y pipeline de machine learning enfocado en predecir la progresión de la diabetes, evaluando la optimización del modelo mediante la métrica RMSE tras la limpieza de datos, imputación de valores faltantes y codificación categórica.
 - **Herramientas:** Python, Pandas, Scikit-learn, Seaborn, Jupyter Notebook.
 
+### 6. Análisis de Sentimientos de Youtube: Jake Paul vs. Mike Tyson (trailer)
+- **Repositorio:** [YouTube Sentiment Analysis: Jake Paul vs. Mike Tyson (trailer)](https://github.com/lexaperez/youtube_sentiment_analysis_jakepaulvsmiketyson)
+- **Descripción:** Análisis de la percepción pública y las reacciones de la comunidad de YouTube ante uno de los eventos de boxeo más mediáticos de los últimos tiempos. Mediante técnicas de NLP, se extrajeron y procesaron los comentarios del tráiler oficial para clasificar la polaridad de las opiniones (positivo, neutral o negativo) y descubrir los términos más recurrentes.
+- **Herramientas:** Python, NLTK, Seaborn & WordCloud.
+
 ---
 
 ## 📌 Habilidades
-- **Análisis de Datos:** Python, Pandas, NumPy, SQL, Excel, Power BI  
+- **Análisis de Datos:** Python, Pandas, NumPy, SQL, Excel, Power BI, AWSS
 - **Inteligencia de Negocios:** Dashboards interactivos, KPIs, reportes ejecutivos  
 - **Habilidades Blandas:** Proactiva, adaptable, resolución de problemas, aprendizaje rápido  
 
