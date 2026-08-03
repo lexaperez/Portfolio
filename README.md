@@ -39,6 +39,8 @@ Economist and aspiring Data Analyst with skills in **Python, SQL, Excel, and Pow
 - **GitHub Repo:** [YouTube Sentiment Analysis: Jake Paul vs. Mike Tyson (trailer)](https://github.com/lexaperez/youtube_sentiment_analysis_jakepaulvsmiketyson)
 - **Description:** Analysis of public perception and YouTube community reactions to one of the most publicized boxing events in recent history. Using NLP techniques, comments from the official trailer were extracted and processed to classify sentiment polarity (positive, neutral, or negative) and uncover the most recurring terms.
 - **Key Tools:** Python, NLTK, Seaborn & WordCloud.
+- **Preview:**
+![WordCloud](images/youtubejakepaulmiketsyson.png)
 
 ---
 
@@ -99,6 +101,8 @@ Economista y aspirante a Analista de Datos con habilidades en **Python, SQL, Exc
 - **Repositorio:** [YouTube Sentiment Analysis: Jake Paul vs. Mike Tyson (trailer)](https://github.com/lexaperez/youtube_sentiment_analysis_jakepaulvsmiketyson)
 - **Descripción:** Análisis de la percepción pública y las reacciones de la comunidad de YouTube ante uno de los eventos de boxeo más mediáticos de los últimos tiempos. Mediante técnicas de NLP, se extrajeron y procesaron los comentarios del tráiler oficial para clasificar la polaridad de las opiniones (positivo, neutral o negativo) y descubrir los términos más recurrentes.
 - **Herramientas:** Python, NLTK, Seaborn & WordCloud.
+- **Vista Previa:**
+![WordCloud](images/youtubejakepaulmiketsyson.png)
 
 ---
 
